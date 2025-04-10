@@ -1,4 +1,4 @@
-## Hi there 👋
+u## Hi there 👋
 
 
  <div>
@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help wich my conheciment
 - 💬 Ask me about activite to math
 - 📫 How to reach me: you can enter in linkdin and find my profile, or you can find my users in social midia
-- 😄 Pronouns: ...
+- 😄 Pronouns: ele/dele
 - ⚡ Fun fact: ...
 -->
