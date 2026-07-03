@@ -1,7 +1,7 @@
 u## Hi there 👋
 
 
- <h2 align="left">Hello World, Welcome to my profile!</h2>
+ <h2 align="left">Welcome to my profile!</h2>
 
 
  <div>
@@ -19,12 +19,14 @@ u## Hi there 👋
 </picture>
 
 
-- 🔭 I’m currently working on my body
-- 🌱 I’m currently learning to make solution problems and make sites
-- 👯 I’m looking to collaborate on the better desenvolvment to company
-- 🤔 I’m looking for help wich my conheciment
-- 💬 Ask me about activite to math
-- 📫 How to reach me: you can enter in linkdin and find my profile, or you can find my users in social midia
-- 😄 Pronouns: ele/dele
-- ⚡ Fun fact: ...
+* 💻 I’m passionate about **software development** and technology
+* 🌱 I’m currently learning **problem solving, programming, and website development**
+* 🚀 I’m always looking to improve my **development skills** and learn new technologies
+* 👯 I’m interested in collaborating on projects that help **companies grow through technology**
+* 🤔 I’m constantly improving my knowledge and looking for ways to become a better developer
+* 💬 Ask me about **programming, math, logic, and technology**
+* 📫 How to reach me: you can find me on **LinkedIn** or through my social media profiles
+* 😄 Pronouns: ele/dele
+* ⚡ Fun fact: I really enjoy creating solutions and understanding how technology works behind the scenes
+
 -->
